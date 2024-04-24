@@ -4,7 +4,7 @@
 
 ![Screenshot 2024-04-24 114836](https://github.com/simalaomprakash/Pizza-Sales-Report/assets/156334076/c9a84d9d-4b69-4e62-bd03-1cb46798b85f)
 ### Live Dashboard
-["Live Dashboard"](https://app.powerbi.com/view?r=eyJrIjoiYzc1ZTEyNzUtMDMwNS00NmYwLThhMmYtYzk4MTM0ODI2NTExIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzc1ZTEyNzUtMDMwNS00NmYwLThhMmYtYzk4MTM0ODI2NTExIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 ## Overview
 This project provides a comprehensive analysis of pizza sales data for the period of January 2015 to December 2015.
 
