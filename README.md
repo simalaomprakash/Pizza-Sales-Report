@@ -1,5 +1,10 @@
 # Pizza Sales Report
 
+![image](https://github.com/simalaomprakash/Pizza-Sales-Report/assets/156334076/6b27d602-22b2-41a6-9bd0-457b0fcd56c5)
+
+![Screenshot 2024-04-24 114836](https://github.com/simalaomprakash/Pizza-Sales-Report/assets/156334076/c9a84d9d-4b69-4e62-bd03-1cb46798b85f)
+
+
 ## Overview
 This project provides a comprehensive analysis of pizza sales data for the period of January 2015 to December 2015.
 
